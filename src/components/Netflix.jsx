@@ -17,9 +17,14 @@ const Netflix = () =>{
         <>
             <div className="container-fluid">
                 <div id="top">
-                    <div class="netflixIcon">
+                    <div class="netflixIcon">  
                         <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240313101431/Netflix-Logo.png" class="img-netflixIcon" alt="Random "/>
-                    </div>
+                
+                
+                
+                
+                
+                </div>
                     <div class="bar">
                         <img src={image} alt={image} ></img>
                         <input type="text" name="search" placeholder="Search" id="s"></input>
@@ -34,7 +39,7 @@ const Netflix = () =>{
                     </div>
                 </div>
                 <div id="lower">
-                    <h5 id="p">Flims >  </h5>
+                    <h5 id="p">Flims  </h5>
                     <div className="row">
                         <div className="col-lg-2 col-md-6 col-sm-12">
                             <div className="card">
