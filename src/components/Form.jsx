@@ -5,7 +5,7 @@ const Form = () => {
             <>
             <form id="am">
                 <div id="main">
-                    <p id="line">Personal Details</p><hr></hr>
+                    <p id="line">Personal  Details</p><hr></hr>
                     <div class="a">
                         <label>Name<sup>*</sup></label><br></br>
                             <input type="text" name="name" placeholder="Enter Your Name" className="input"></input>
